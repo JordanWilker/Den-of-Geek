@@ -1,0 +1,34 @@
+.background-one{
+    background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cat-quotes-1543599392.jpg?crop=1.00xw:0.759xh;0,0&resize=980:*");
+    height:45vh;
+    background-size: cover;
+    width: 100vw
+}
+.color-bg-one{
+    background-color:#e9eff3;
+}
+.centered {
+    position: absolute;
+    z-index: 3;
+    transform: translate(-50%, -259%);
+
+}
+.centered-2{
+    position: absolute;
+    z-index: 3;
+    transform: translate(-50%, -214%);
+}
+.line{
+    border-top: 3px solid black;
+    width: 100%;
+    
+    position:absolute;
+    transform: translate(0,2500%)
+}
+.z-index{
+    z-index: 3;
+    position:relative;
+}
+.line-2{
+    border-top:1px solid black;
+}
