@@ -32,3 +32,16 @@
 .line-2{
     border-top:1px solid black;
 }
+
+.aside-articles {
+    background-color: #cbd1d4;
+    border-top: 3px solid;
+    border-color: #afb5b8;
+}
+.aside-header {
+    position: absolute;
+    left: 30%;
+    right: 30%;
+    height: 0;
+    top: -1rem;
+}
